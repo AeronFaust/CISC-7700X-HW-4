@@ -1,0 +1,100 @@
+Dividends
+======================================
+Company: IBM
+Linear: 22065
+Actual: 23261
+Err: 5.14%
+
+Company: MSFT
+Exponential: 244412
+Actual:      253152
+Err: 3.45%
+
+Company: AAPL
+Power: 62955.2
+Actual:74194
+Err: 15.14%
+
+Company: GOOG
+Linear: 276224
+Actual: 292844
+Err: 5.67%
+
+Company: META
+Linear: 133167
+Actual: 149529
+Err: 10.94%
+
+Company: PG
+Linear: 48332.2
+Actual: 50333
+Err: 3.97%
+
+Earnings
+======================================
+Company: IBM
+Linear: 1745.75
+Actual: 1878
+Err: 7.04%
+
+Company: MSFT
+Linear: 21463.7
+Actual: 21453
+Err: -0.05%
+
+Company: AAPL
+Linear: 27140.4
+Actual: 23636
+Err: -14.82%
+
+Company: GOOG
+Power: 16442.8
+Actual:23662
+Err: 30.51%
+
+Company: META
+Power: 6684.11
+Actual:12369
+Err: 45.96%
+
+Company: PG
+Power: 3739.87
+Actual:3754
+Err: 0.37%
+
+Revenues
+======================================
+Company: IBM
+Logrithmic: 14060.5
+Actual:     14462
+Err: 2.77%
+
+Company: MSFT
+Exponential: 61170.5
+Actual:      61858
+Err: 1.11%
+
+Company: AAPL
+Power: 102579
+Actual: 90753
+Err: -13.03%
+
+Company: GOOG
+Linear: 77708.2
+Actual: 80539
+Err: 3.51%
+
+Company: META
+Linear: 32425.7
+Actual: 36455
+Err: 11.05%
+
+Company: PG
+Linear: 21458.2
+Actual: 20195
+Err: -6.25%
+
+Company: GE
+Logrithmic: 14905.8
+Actual:     16053 
+Err: 7.14%

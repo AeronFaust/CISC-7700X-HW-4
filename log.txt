@@ -1,0 +1,196 @@
+Dividends
+======================================
+Company: IBM
+w = 20332.8 , 192.464
+Linear prediction for next quarter = 22065
+w = 20948.7 , 188.766
+Logrithmic prediction for next quarter = 21363.4
+w = 9.91884 , 0.00904042
+Exponential prediction for next quarter = 22030.9
+w = 9.94826 , 0.00849009
+Power Curve prediction for next quarter = 21309.7
+
+Company: MSFT
+w = 131424 , 12052.3
+Linear prediction for next quarter = 239895
+w = 135830 , 37590.8
+Logrithmic prediction for next quarter = 218426
+w = 11.8341 , 0.0636157
+Exponential prediction for next quarter = 244412
+w = 11.853 , 0.201696
+Power Curve prediction for next quarter = 218851
+
+Company: AAPL
+w = 64728.5 , -79.2024
+Linear prediction for next quarter = 64015.7
+w = 65955.7 , -1194.63
+Logrithmic prediction for next quarter = 63330.8
+w = 11.0766 , -0.00185501
+Exponential prediction for next quarter = 63571.7
+w = 11.0958 , -0.0207571
+Power Curve prediction for next quarter = 62955.2
+
+Company: GOOG
+w = 235380 , 4538.17
+Linear prediction for next quarter = 276224
+w = 235298 , 15468.3
+Logrithmic prediction for next quarter = 269285
+w = 12.3713 , 0.0177747
+Exponential prediction for next quarter = 276858
+w = 12.3704 , 0.0609923
+Power Curve prediction for next quarter = 269531
+
+Company: META
+w = 128818 , 483.19
+Linear prediction for next quarter = 133167
+w = 132214 , -921.32
+Logrithmic prediction for next quarter = 130190
+w = 11.7658 , 0.00350583
+Exponential prediction for next quarter = 132902
+w = 11.7915 , -0.00745164
+Power Curve prediction for next quarter = 129975
+
+Company: PG
+w = 45305.1 , 336.345
+Linear prediction for next quarter = 48332.2
+w = 45500.2 , 994.568
+Logrithmic prediction for next quarter = 47685.5
+w = 10.7216 , 0.007129
+Exponential prediction for next quarter = 48329.2
+w = 10.7257 , 0.0211016
+Power Curve prediction for next quarter = 47672.2
+
+Earnings
+======================================
+Company: IBM
+w = 1577 , 18.75
+Linear prediction for next quarter = 1745.75
+w = 1675.37 , -10.5574
+Logrithmic prediction for next quarter = 1652.17
+w = 7.36696 , 0.0042904
+Exponential prediction for next quarter = 1645.13
+w = 7.42594 , -0.029925
+Power Curve prediction for next quarter = 1572.13
+
+Company: MSFT
+w = 16994.5 , 496.583
+Linear prediction for next quarter = 21463.7
+w = 18134.8 , 825.558
+Logrithmic prediction for next quarter = 19948.7
+w = 9.74998 , 0.0236757
+Exponential prediction for next quarter = 21227.6
+w = 9.80827 , 0.0363936
+Power Curve prediction for next quarter = 19697.3
+
+Company: AAPL
+w = 25054.9 , 231.726
+Linear prediction for next quarter = 27140.4
+w = 25156.4 , 710.056
+Logrithmic prediction for next quarter = 26716.5
+w = 10.1108 , 0.0079408
+Exponential prediction for next quarter = 26430.4
+w = 10.1132 , 0.0251638
+Power Curve prediction for next quarter = 26068.2
+
+Company: GOOG
+w = 17164.9 , -11.1786
+Linear prediction for next quarter = 17064.3
+w = 17914 , -603.011
+Logrithmic prediction for next quarter = 16589
+w = 9.7481 , -0.00154638
+Exponential prediction for next quarter = 16885
+w = 9.79208 , -0.0384304
+Power Curve prediction for next quarter = 16442.8
+
+Company: META
+w = 8237.61 , -74.6071
+Linear prediction for next quarter = 7566.14
+w = 9206.5 , -984.194
+Logrithmic prediction for next quarter = 7044
+w = 9.00153 , -0.0154275
+Exponential prediction for next quarter = 7063.4
+w = 9.12162 , -0.142967
+Power Curve prediction for next quarter = 6684.11
+
+Company: PG
+w = 4035.57 , -32.0714
+Linear prediction for next quarter = 3746.93
+w = 4081.13 , -143.247
+Logrithmic prediction for next quarter = 3766.39
+w = 8.30186 , -0.00904082
+Exponential prediction for next quarter = 3716.34
+w = 8.31345 , -0.0394334
+Power Curve prediction for next quarter = 3739.87
+
+Revenues
+======================================
+Company: IBM
+w = 15288.5 , -106.298
+Linear prediction for next quarter = 14331.8
+w = 15950.2 , -860.058
+Logrithmic prediction for next quarter = 14060.5
+w = 9.60774 , -0.00287488
+Exponential prediction for next quarter = 14499.5
+w = 9.64945 , -0.0412201
+Power Curve prediction for next quarter = 14169.9
+
+Company: MSFT
+w = 44334.5 , 1833.12
+Linear prediction for next quarter = 60832.5
+w = 44743.6 , 5914.32
+Logrithmic prediction for next quarter = 57738.7
+w = 10.7112 , 0.0344706
+Exponential prediction for next quarter = 61170.5
+w = 10.7165 , 0.113023
+Power Curve prediction for next quarter = 57804.3
+
+Company: AAPL
+w = 95419.6 , 989.476
+Linear prediction for next quarter = 104325
+w = 94139.8 , 4324.48
+Logrithmic prediction for next quarter = 103642
+w = 11.4505 , 0.0104755
+Exponential prediction for next quarter = 103241
+w = 11.4358 , 0.0467039
+Power Curve prediction for next quarter = 102579
+
+Company: GOOG
+w = 61009.3 , 1855.43
+Linear prediction for next quarter = 77708.2
+w = 61004.2 , 6302.6
+Logrithmic prediction for next quarter = 74852.4
+w = 11.0244 , 0.0267982
+Exponential prediction for next quarter = 78087.9
+w = 11.023 , 0.0920085
+Power Curve prediction for next quarter = 74996.6
+
+Company: META
+w = 26904.5 , 613.464
+Linear prediction for next quarter = 32425.7
+w = 27622.1 , 1541.25
+Logrithmic prediction for next quarter = 31008.6
+w = 10.2068 , 0.0196929
+Exponential prediction for next quarter = 32337.6
+w = 10.2302 , 0.0491366
+Power Curve prediction for next quarter = 30890.3
+
+Company: PG
+w = 19901.1 , 173.012
+Linear prediction for next quarter = 21458.2
+w = 20057.7 , 469.198
+Logrithmic prediction for next quarter = 21088.6
+w = 9.89897 , 0.0082902
+Exponential prediction for next quarter = 21452.2
+w = 9.90658 , 0.0224011
+Power Curve prediction for next quarter = 21074.2
+
+Company: GE
+w = 16317.7 , -111.964
+Linear prediction for next quarter = 15310
+w = 17194.8 , -1041.77
+Logrithmic prediction for next quarter = 14905.8
+w = 9.68373 , -0.0051783
+Exponential prediction for next quarter = 15323.2
+w = 9.74005 , -0.0600709
+Power Curve prediction for next quarter = 14884.4
+
